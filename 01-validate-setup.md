@@ -65,9 +65,8 @@ Let's make sure the correct version of Java is installed:
 
 1. Clone the project repository from GitHub to your machine by doing:
 
-   `git clone https://github.com/tedyoung/austin-canteen-201804.git`
+   `git clone https://github.com/jwkidd3/canteen-starter`
 
-   * **ssh:** If you can use `ssh`, use this link: `git@github.com:tedyoung/austin-canteen-201804.git`
 
    * **NOTE:** If you run into proxying issues, see [proxying git](#proxying-git) for more info
    * If you are still having trouble, download and unzip the project instead of using Git to pull it.
@@ -83,7 +82,7 @@ Let's run the test using Maven from the command line.
 1. Change to the directory holding the project:
 
    ```
-   $ cd austin-canteen-201804
+   $ cd canteen-starter
    ```
     
 1. Run the `test` task in Maven:
